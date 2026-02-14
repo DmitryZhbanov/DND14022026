@@ -1,0 +1,88 @@
+{
+  "name": "Aarakocra (Peregrine)",
+  "type": "race",
+  "system": {
+    "description": {
+      "value": "<div><table class=\"w-100 summary stripe-even\"><tbody><tr><th class=\"ve-col-4 ve-text-center\"><p>Ability Scores</p></th><th class=\"ve-col-4 ve-text-center\"><p>Size</p></th><th class=\"ve-col-4 ve-text-center\"><p>Speed</p></th></tr><tr><td class=\"ve-text-center\"><p></p></td><td class=\"ve-text-center\"><p>Medium</p></td><td class=\"ve-text-center\"><p>7.5 m, Fly 15 m</p></td></tr></tbody></table><div class=\"rd__b  rd__b--2\"><div data-roll-name-ancestor=\"Age\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Age.</span> Aarakocra reach maturity by age 3. Compared to humans, aarakocra don't usually live longer than 30 years.</p></div><div data-roll-name-ancestor=\"Size\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Size.</span> Most mature Aarakocra are about 5 feet tall. They have thin, lightweight bodies that weigh between 80 and 100 pounds. Your size is Medium.</p></div><div data-roll-name-ancestor=\"Flight\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Flight.</span> You have a flying speed of 50 feet. To use this speed, you can't be wearing medium or heavy armor.</p></div><div data-roll-name-ancestor=\"Talons\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Talons.</span> Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to [[/r 1d4]] + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.</p></div><div data-roll-name-ancestor=\"Bonus Language\" class=\"rd__b  rd__b--3\"><p><span class=\"entry-title-inner\">Bonus Language.</span> You can speak, read, and write Auran.</p></div></div><hr class=\"hr-1\" /><div class=\"rd__b  rd__b--1\"><p>This subrace represents the original version of the aarakocra race. For more information on this version's culture, history, and archetypal adventurers, see the Elemental Evil Player's Companion, available for free on the Wizards of the Coast and DNDBeyond websites.</p></div></div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "TCEE2",
+      "page": "",
+      "license": "",
+      "rules": "2014",
+      "revision": 1
+    },
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": 15,
+      "swim": null,
+      "walk": 7.5,
+      "units": "ft",
+      "hover": false
+    },
+    "type": {
+      "value": "humanoid",
+      "subtype": "Aarakocra",
+      "custom": ""
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "truesight": null,
+      "tremorsense": null,
+      "units": "ft",
+      "special": ""
+    },
+    "advancement": [
+      {
+        "_id": "YyBt7eVXLrmWp0vG",
+        "type": "Size",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "value": {
+          "size": "med"
+        },
+        "level": 0,
+        "title": ""
+      }
+    ],
+    "identifier": "aarakocra-peregrine"
+  },
+  "effects": [],
+  "flags": {
+    "plutonium": {
+      "page": "races.html",
+      "source": "TCEE2",
+      "hash": "aarakocra%20(peregrine)_tcee2",
+      "propDroppable": "race"
+    }
+  },
+  "img": "modules/plutonium/media/icon/family-tree.svg",
+  "folder": "OxMOeMkjxcjl8tI5",
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.350",
+    "systemId": "dnd5e",
+    "systemVersion": "4.4.4",
+    "createdTime": 1771069565587,
+    "modifiedTime": 1771070641623,
+    "lastModifiedBy": "RcKpcScTesu2wMG7",
+    "exportSource": {
+      "worldId": "dnd-v1vset-5-night",
+      "uuid": "Item.mzEJ99t0TGUKTEFC",
+      "coreVersion": "13.350",
+      "systemId": "dnd5e",
+      "systemVersion": "4.4.4"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}
